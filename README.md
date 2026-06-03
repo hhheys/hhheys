@@ -1,71 +1,18 @@
-# Dmitriy Tsyganckov
+# Dmitriy Tsyganсkov
 
-Backend Developer focused on Go and distributed systems.
+Go Backend Developer
 
-## About Me
+Building microservices, distributed systems and backend infrastructure.
 
-* Junior Backend Developer at Swiftly
-* Building microservices and backend services in Go
-* Interested in distributed systems, event-driven architecture and performance optimization
+**Stack:** Go · PostgreSQL · Redis · Kafka · gRPC · Docker · Kubernetes
 
-## Tech Stack
+### Selected Projects
 
-**Languages**
+* **Habit Tracker** — event-driven habit tracking service
+* **Neural Network Library** — neural network training library in Go
+* **News Portal API** — Kafka, Redis, PostgreSQL
+* **Wordly Bot** — Telegram game bot on Python
 
-* Go
-* Python
-* Java / Kotlin
-
-**Backend**
-
-* REST API
-* gRPC
-* Microservices
-
-**Databases**
-
-* PostgreSQL
-* Redis
-* ClickHouse
-
-**Messaging**
-
-* Kafka
-* RabbitMQ
-
-**Infrastructure**
-
-* Docker
-* Kubernetes
-* Linux
-* CI/CD
-
-## Featured Projects
-
-### Habit Tracker
-
-Event-driven habit tracking backend service written in Go.
-
-### Neural Network Library
-
-Library for neural network training written in Go.
-
-### News Portal API
-
-Backend service with Kafka, Redis and PostgreSQL.
-
-### Wordly Bot
-
-Telegram game bot built with Python and PostgreSQL.
-
-## Achievements
-
-* PROЦИФРУ 2025 — Top 5/60
-* 2GIS Hackathon 2025 — Top 10/58
-
-## Contacts
+### Contact
 
 Telegram: @hheyz
-
-GitHub: github.com/hhheys
-
